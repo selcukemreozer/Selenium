@@ -1,3 +1,5 @@
+# not only any people but also any code can't beat me at https://checkboxrace.com/ !!!
+
 from selenium import webdriver
 from time import sleep
 browser = webdriver.Chrome()
